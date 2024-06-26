@@ -19,7 +19,7 @@
 
 - Q1. Write a code to check NULL values
 
--Q2. If NULL values are present, update them with zeros for all columns. 
+- Q2. If NULL values are present, update them with zeros for all columns. 
 
 - Q3. check total number of rows
 
@@ -38,13 +38,13 @@
 - Q10. The total number of case of confirmed, deaths, recovered each month
 
 - Q11. Check how corona virus spread out with respect to confirmed case
--      (Eg.: total confirmed cases, their average, variance & STDEV )
+        - (Eg.: total confirmed cases, their average, variance & STDEV )
 
 - Q12. Check how corona virus spread out with respect to death case per month
--      (Eg.: total confirmed cases, their average, variance & STDEV )
+        - (Eg.: total confirmed cases, their average, variance & STDEV )
 
 - Q13. Check how corona virus spread out with respect to recovered case
--      (Eg.: total confirmed cases, their average, variance & STDEV )
+        - (Eg.: total confirmed cases, their average, variance & STDEV )
 
 - Q14. Find Country having highest number of the Confirmed case
 
