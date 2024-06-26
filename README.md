@@ -6,13 +6,13 @@
 
 ### Dataset: Description of each column in the dataset:
 
-##### Province: Geographic subdivision within a country/region.
-##### Country/Region: Geographic entity where data is recorded.
-##### Latitude: North-south position on Earth's surface.
-##### Longitude: East-west position on Earth's surface.
-##### Date: Recorded date of CORONA VIRUS data.
-##### Confirmed: Number of diagnosed CORONA VIRUS cases.
-##### Deaths: Number of CORONA VIRUS related deaths.
-##### Recovered: Number of recovered CORONA VIRUS cases.
+1. Province: Geographic subdivision within a country/region.
+2. Country/Region: Geographic entity where data is recorded.
+3. Latitude: North-south position on Earth's surface.
+4. Longitude: East-west position on Earth's surface.
+5. Date: Recorded date of CORONA VIRUS data.
+6. Confirmed: Number of diagnosed CORONA VIRUS cases.
+7. Deaths: Number of CORONA VIRUS related deaths.
+8. Recovered: Number of recovered CORONA VIRUS cases.
 
 
