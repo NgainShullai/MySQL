@@ -52,4 +52,6 @@
 
 - Q16. Find top 5 countries having highest recovered case
 
+[GoTo](https://github.com/NgainShullai/MySQL/blob/main/CoronaVirusCaseStudy.sql)
+
 
